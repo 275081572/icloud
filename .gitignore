@@ -1,3 +1,5 @@
 *.iml
 .idea/
 eureka-server/target/
+eureka-serviceprovider/target/
+eureka-serviceconsumer-ribbon/target/
